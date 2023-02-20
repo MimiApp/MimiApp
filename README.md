@@ -10,6 +10,7 @@
 <div size='20px'> Hello! I am MimiApp. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects
 - 🌱 I’m currently having a deep dive in learning Linux,DevOps, 
 - 👯 I’m looking to collaborate on Anything Cloud & DevOps related 
@@ -30,7 +31,6 @@
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/marian-nana-ama-adofo/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 <a href = 'https://github.com/MimiApp'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MimiApp&count_private=true&show_icons=true&theme=default" />
