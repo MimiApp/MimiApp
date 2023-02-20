@@ -33,8 +33,6 @@
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/marian-nana-ama-adofo/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 
-
-
 <a href = 'https://github.com/MimiApp'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
